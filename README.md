@@ -1,4 +1,4 @@
 # todoList
 
-todoList with Django
+A simple todoList with Django
  
